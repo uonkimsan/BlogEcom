@@ -1,2 +1,1 @@
-# BlogEcom
-public
+Blogger Ecommerce Code
